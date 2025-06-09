@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826840893048",
+    "project_id": "tiwaz-app",
+    "storage_bucket": "tiwaz-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826840893048:android:2cd2f53d58a7a6a3ca8f8d",
+        "android_client_info": {
+          "package_name": "com.example.tiwaz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbd-MSzsyL4Jlv1XCcPRe1z1_ENeZkENk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

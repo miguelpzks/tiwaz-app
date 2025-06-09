@@ -2,20 +2,29 @@
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center"
+    android:background="@android:color/white">
 
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:orientation="vertical" />
-
-    <TextView
+    <Button
+        android:id="@+id/btnPerfil"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Tiwaz"
-        android:textColor="@color/black"
-        android:textSize="19sp"
-        android:textStyle="bold"/>
+        android:text="Perfil"
+        android:layout_marginBottom="16dp" />
 
+    <Button
+        android:id="@+id/btnProdutos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Produtos"
+        android:layout_marginBottom="16dp" />
 
+    <Button
+        android:id="@+id/btnSair"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sair" />
 </LinearLayout>
