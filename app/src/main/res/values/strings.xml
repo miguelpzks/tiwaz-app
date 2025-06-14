@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tiwaz</string>
+    <string name="open_drawer">Abrir menu de navegação</string>
+    <string name="close_drawer">Fechar menu de navegação</string>
 </resources>
